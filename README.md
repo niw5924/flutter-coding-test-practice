@@ -1,16 +1,6 @@
-# flutter_coding_test_practice
+# 플러터 코딩 테스트 연습
 
-A new Flutter project.
+하루에 한 문제씩 연습하기.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[초급]
+1일차/할 일을 입력하고 추가하며, 체크박스를 통해 완료 여부를 토글할 수 있는 할 일 목록 앱
