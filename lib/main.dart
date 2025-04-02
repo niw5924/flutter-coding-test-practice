@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_coding_test_practice/levels/beginner/reverse_string_page.dart';
+import 'package:flutter_coding_test_practice/levels/beginner/day3_square_calculator_page.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(primarySwatch: Colors.blue),
 
       /// 이 부분만 바꿔야 함.
-      home: ReverseStringPage(),
+      home: SquareCalculatorPage(),
     );
   }
 }
