@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Flutter 3.10 릴리즈!",
+    "summary": "Flutter 3.10이 출시되었습니다. 주요 기능은...",
+    "author": "Flutter Team",
+    "content": "Flutter 3.10에서는 macOS 및 Linux의 안정화가 완료되었으며, 새로운 rendering engine인 Impeller의 적용이 가속화되었습니다."
+  },
+  {
+    "title": "Dart 언어의 미래",
+    "summary": "Dart는 더 나은 생산성과 성능을 위해...",
+    "author": "Dart Devs",
+    "content": "Dart는 최근 Null Safety, Isolates 개선 등으로 큰 발전을 이뤘습니다. Flutter와 함께 성장하며 더 많은 생태계를 확장 중입니다."
+  }
+]
