@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_coding_test_practice/levels/beginner/day_9_bmi_calculator.dart';
+import 'package:flutter_coding_test_practice/levels/beginner/day10_rock_paper_scissors.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(primarySwatch: Colors.blue),
 
       /// 이 부분만 바꿔야 함.
-      home: Day9Page(),
+      home: Day10Page(),
     );
   }
 }
