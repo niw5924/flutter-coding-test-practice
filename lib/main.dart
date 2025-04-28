@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_coding_test_practice/levels/beginner/day11_simple_notepad.dart';
+import 'package:flutter_coding_test_practice/levels/intermediate/day11_simple_notepad.dart';
 
 void main() {
   runApp(MyApp());
