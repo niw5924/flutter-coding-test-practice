@@ -8,15 +8,25 @@ class Day14Page extends StatefulWidget {
 }
 
 class _Day14PageState extends State<Day14Page> {
-  final textController = TextEditingController();
-  List inputText = [];
+  final textController = TextEditingController(text: '0');
+  List inputText = ['0'];
+  int result = 0;
 
   void input(String data) {
     setState(() {
-      inputText.add(data);
+      if (inputText.length == 1 &&
+          inputText.first == '0' &&
+          '0123456789'.contains(data)) {
+        inputText = [data];
+      } else {
+        inputText.add(data);
+      }
+      print(inputText);
       textController.text = inputText.join();
     });
   }
+
+  void calculate() {}
 
   @override
   Widget build(BuildContext context) {
