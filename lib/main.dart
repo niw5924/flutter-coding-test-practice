@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_coding_test_practice/levels/intermediate/day13_daily_expense_tracker.dart';
+import 'package:flutter_coding_test_practice/levels/intermediate/day14_calculator.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(primarySwatch: Colors.blue),
 
       /// 이 부분만 바꿔야 함.
-      home: Day13Page(),
+      home: Day14Page(),
     );
   }
 }
