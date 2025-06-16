@@ -21,7 +21,7 @@ class _Day5PageState extends State<Day5Page> {
 
   Future<void> loadNews() async {
     final String jsonString =
-        await rootBundle.loadString('assets/day_5_news_data.json');
+        await rootBundle.loadString('assets/day5_news_data.json');
 
     setState(() {
       newsList = jsonDecode(jsonString).cast<Map<String, dynamic>>();
