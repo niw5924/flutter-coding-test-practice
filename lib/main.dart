@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_coding_test_practice/levels/intermediate/day22_word_list_methods.dart';
+import 'package:flutter_coding_test_practice/levels/intermediate/day23_activity_chart.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(primarySwatch: Colors.blue),
 
       /// 이 부분만 바꿔야 함.
-      home: Day22Page(),
+      home: Day23Page(),
     );
   }
 }
