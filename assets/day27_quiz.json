@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Flutter는 어떤 언어로 작성되었나요?",
+    "options": [
+      "Java",
+      "Dart",
+      "Kotlin",
+      "Swift"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "question": "Dart의 기본 컬렉션 타입이 아닌 것은?",
+    "options": [
+      "List",
+      "Map",
+      "Set",
+      "Tree"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "question": "Flutter 위젯의 특성이 아닌 것은?",
+    "options": [
+      "StatelessWidget",
+      "StatefulWidget",
+      "HookWidget",
+      "ConfigurableWidget"
+    ],
+    "answer": "ConfigurableWidget"
+  },
+  {
+    "question": "다음 중 비동기 처리를 위한 Dart 키워드는?",
+    "options": [
+      "async",
+      "await",
+      "defer",
+      "yield"
+    ],
+    "answer": "defer"
+  },
+  {
+    "question": "Flutter에서 화면 전환을 담당하는 객체는?",
+    "options": [
+      "Navigator",
+      "Router",
+      "PageController",
+      "Transition"
+    ],
+    "answer": "Navigator"
+  }
+]
